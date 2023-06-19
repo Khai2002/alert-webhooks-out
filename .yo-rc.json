@@ -1,0 +1,9 @@
+{
+  "generator-teams": {
+    "promptValues": {
+      "developer": "InExtenso"
+    },
+    "libraryName": "learnAlertWebhooksOut",
+    "generator-version": "4.1.0"
+  }
+}
